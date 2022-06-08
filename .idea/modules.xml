@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ImageViewer.iml" filepath="$PROJECT_DIR$/.idea/ImageViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ibish_translator/.idea/ibish_translator.iml" filepath="$PROJECT_DIR$/../ibish_translator/.idea/ibish_translator.iml" />
+    </modules>
+  </component>
+</project>
